@@ -20,6 +20,7 @@
 
 .first-menu {
     background-color: #f5f7fa;
+    padding-top: 10px;
 
     span {
         margin: 0 20px;
@@ -31,14 +32,13 @@
         color: #506a85;
 
         i {
-            margin: 0 5px;
+            margin: 0 10px;
             color: #506a85;
         }
     }
 }
 
 .menu {
-    background-color: #f5f7fa;
 
     .navbar {
         width: 100%;
